@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.1" ID="5DCE8BF8-AF59-4315-95AE-92023D3307B9">
     <Notes>
-        <Note ID="0" FontSize="12.0" Position="31.058594,17.757812" Width="89.0">
+        <Note ID="0" FontSize="12.0" Position="31.0,18.0" Width="89.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Menu structure</String>
         </Note>
-        <Note ID="1" FontSize="12.0" Position="246.386719,64.816406" Width="39.0">
+        <Note ID="1" FontSize="12.0" Position="246.0,65.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -15,7 +15,7 @@
             <String>home</String>
             <ConnectedNoteIDs>8, 19</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="267.027344,133.460938" Width="65.0">
+        <Note ID="2" FontSize="12.0" Position="267.0,133.0" Width="65.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -23,7 +23,7 @@
             <String>Availability</String>
             <ConnectedNoteIDs>8, 19</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="371.699219,229.128906" Width="52.0">
+        <Note ID="3" FontSize="12.0" Position="372.0,229.0" Width="52.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -31,7 +31,7 @@
             <String>Moneda</String>
             <ConnectedNoteIDs>9-19</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="584.714844,271.640625" Width="58.0">
+        <Note ID="4" FontSize="12.0" Position="585.0,272.0" Width="58.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -39,7 +39,7 @@
             <String>Balcones</String>
             <ConnectedNoteIDs>19-20, 23-29, 34</ConnectedNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="827.382812,273.425781" Width="51.0">
+        <Note ID="5" FontSize="12.0" Position="827.0,273.0" Width="51.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -47,7 +47,7 @@
             <String>Barbara</String>
             <ConnectedNoteIDs>19, 50-53</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="1086.164062,222.269531" Width="65.0">
+        <Note ID="6" FontSize="12.0" Position="1086.0,222.0" Width="65.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -55,7 +55,7 @@
             <String>Cartagena</String>
             <ConnectedNoteIDs>19, 54-68</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="1196.382812,113.683594" Width="56.0">
+        <Note ID="7" FontSize="12.0" Position="1196.0,114.0" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -63,119 +63,120 @@
             <String>About us</String>
             <ConnectedNoteIDs>19, 70-75, 77</ConnectedNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="38.566406,90.15625" Width="50.0">
+        <Note ID="8" FontSize="12.0" Position="39.0,90.0" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Contact</String>
             <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="26.511719,125.367188" Width="54.0">
+        <Note ID="9" FontSize="12.0" Position="27.0,125.0" Width="54.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Location</String>
             <ConnectedNoteIDs>3, 21</ConnectedNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="42.554688,163.675781" Width="61.0">
+        <Note ID="10" FontSize="12.0" Position="43.0,164.0" Width="61.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Amenities</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="58.40625,202.855469" Width="43.0">
+        <Note ID="11" FontSize="12.0" Position="58.0,203.0" Width="43.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Studio</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="78.5,236.132812" Width="39.0">
+        <Note ID="12" FontSize="12.0" Position="79.0,236.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>1 bed</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="13" FontSize="12.0" Position="83.855469,281.203125" Width="39.0">
+        <Note ID="13" FontSize="12.0" Position="84.0,281.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>2 bed</String>
             <ConnectedNoteIDs>3, 30-31</ConnectedNoteIDs>
         </Note>
-        <Note ID="14" FontSize="12.0" Position="142.578125,324.039062" Width="39.0">
+        <Note ID="14" FontSize="12.0" Position="143.0,324.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>3 bed</String>
             <ConnectedNoteIDs>3, 32-33</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="220.152344,343.222656" Width="39.0">
+        <Note ID="15" FontSize="12.0" Position="220.0,343.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>4 bed</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="265.386719,360.941406" Width="54.0">
+        <Note ID="16" FontSize="12.0" Position="265.0,361.0" Width="54.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Reviews</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="17" FontSize="12.0" Position="322.5,376.210938" Width="39.0">
+        <Note ID="17" FontSize="12.0" Position="323.0,376.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>P &amp; P</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="18" FontSize="12.0" Position="370.0,370.703125" Width="40.0">
+        <Note ID="18" FontSize="12.0" Position="370.0,371.0" Width="40.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Rates</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="19" FontSize="12.0" Position="737.757812,25.757812" Width="34.0">
+        <Note ID="19" FontSize="12.0" Position="738.0,26.0" Width="34.0">
             <Appearance>
                 <Alignment>Left</Alignment>
+                <Border Weight="3" Style="Square"></Border>
             </Appearance>
             <String>VRC</String>
             <ConnectedNoteIDs>1-7</ConnectedNoteIDs>
         </Note>
-        <Note ID="20" FontSize="12.0" Position="428.082031,299.601562" Width="54.0">
+        <Note ID="20" FontSize="12.0" Position="428.0,300.0" Width="54.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Location</String>
             <ConnectedNoteIDs>4, 22</ConnectedNoteIDs>
         </Note>
-        <Note ID="21" FontSize="12.0" Position="6.136719,152.777344" Width="32.0">
+        <Note ID="21" FontSize="12.0" Position="6.0,153.0" Width="32.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Map</String>
             <ConnectedNoteIDs>9</ConnectedNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="429.359375,355.066406" Width="32.0">
+        <Note ID="22" FontSize="12.0" Position="429.0,355.0" Width="32.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Map</String>
             <ConnectedNoteIDs>20</ConnectedNoteIDs>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="469.585938,342.855469" Width="61.0">
+        <Note ID="23" FontSize="12.0" Position="470.0,343.0" Width="61.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Amenities</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="474.042969,600.921875" Width="43.0">
+        <Note ID="24" FontSize="12.0" Position="474.0,601.0" Width="43.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -184,7 +185,7 @@
 studio</String>
             <ConnectedNoteIDs>4, 42-43</ConnectedNoteIDs>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="565.878906,624.050781" Width="39.0">
+        <Note ID="25" FontSize="12.0" Position="566.0,624.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -192,7 +193,7 @@ studio</String>
             <String>1 bed</String>
             <ConnectedNoteIDs>4, 44-45</ConnectedNoteIDs>
         </Note>
-        <Note ID="26" FontSize="12.0" Position="648.109375,606.53125" Width="39.0">
+        <Note ID="26" FontSize="12.0" Position="648.0,607.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -200,56 +201,56 @@ studio</String>
             <String>2 bed</String>
             <ConnectedNoteIDs>4, 46-49</ConnectedNoteIDs>
         </Note>
-        <Note ID="27" FontSize="12.0" Position="667.84375,393.140625" Width="49.0">
+        <Note ID="27" FontSize="12.0" Position="668.0,393.0" Width="49.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>reviews</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="28" FontSize="12.0" Position="713.34375,371.972656" Width="33.0">
+        <Note ID="28" FontSize="12.0" Position="713.0,372.0" Width="33.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>P&amp;P</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="29" FontSize="12.0" Position="730.710938,346.800781" Width="40.0">
+        <Note ID="29" FontSize="12.0" Position="731.0,347.0" Width="40.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Rates</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="30" FontSize="12.0" Position="21.992188,321.019531" Width="36.0">
+        <Note ID="30" FontSize="12.0" Position="22.0,321.0" Width="36.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Inner</String>
             <ConnectedNoteIDs>13</ConnectedNoteIDs>
         </Note>
-        <Note ID="31" FontSize="12.0" Position="54.332031,355.632812" Width="39.0">
+        <Note ID="31" FontSize="12.0" Position="54.0,356.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Outer</String>
             <ConnectedNoteIDs>13</ConnectedNoteIDs>
         </Note>
-        <Note ID="32" FontSize="12.0" Position="91.363281,383.398438" Width="54.0">
+        <Note ID="32" FontSize="12.0" Position="91.0,383.0" Width="54.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>8 guests</String>
             <ConnectedNoteIDs>14</ConnectedNoteIDs>
         </Note>
-        <Note ID="33" FontSize="12.0" Position="134.863281,400.175781" Width="61.0">
+        <Note ID="33" FontSize="12.0" Position="135.0,400.0" Width="61.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>10 guests</String>
             <ConnectedNoteIDs>14</ConnectedNoteIDs>
         </Note>
-        <Note ID="34" FontSize="12.0" Position="360.710938,554.125" Width="49.0">
+        <Note ID="34" FontSize="12.0" Position="361.0,554.0" Width="49.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -257,287 +258,287 @@ studio</String>
             <String>Studios</String>
             <ConnectedNoteIDs>4, 35-41</ConnectedNoteIDs>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="88.375,578.707031" Width="29.0">
+        <Note ID="35" FontSize="12.0" Position="88.0,579.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>201</String>
             <ConnectedNoteIDs>34</ConnectedNoteIDs>
         </Note>
-        <Note ID="36" FontSize="12.0" Position="111.390625,629.785156" Width="29.0">
+        <Note ID="36" FontSize="12.0" Position="111.0,630.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>202</String>
             <ConnectedNoteIDs>34</ConnectedNoteIDs>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="135.761719,662.75" Width="29.0">
+        <Note ID="37" FontSize="12.0" Position="136.0,663.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>301</String>
             <ConnectedNoteIDs>34</ConnectedNoteIDs>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="168.546875,699.695312" Width="29.0">
+        <Note ID="38" FontSize="12.0" Position="169.0,700.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>302</String>
             <ConnectedNoteIDs>34</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="201.453125,738.875" Width="39.0">
+        <Note ID="39" FontSize="12.0" Position="201.0,739.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>205</String>
             <ConnectedNoteIDs>34</ConnectedNoteIDs>
         </Note>
-        <Note ID="40" FontSize="12.0" Position="260.40625,771.011719" Width="37.0">
+        <Note ID="40" FontSize="12.0" Position="260.0,771.0" Width="37.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>305</String>
             <ConnectedNoteIDs>34</ConnectedNoteIDs>
         </Note>
-        <Note ID="41" FontSize="12.0" Position="326.179688,793.710938" Width="29.0">
+        <Note ID="41" FontSize="12.0" Position="326.0,794.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>306</String>
             <ConnectedNoteIDs>34</ConnectedNoteIDs>
         </Note>
-        <Note ID="42" FontSize="12.0" Position="391.714844,807.902344" Width="38.0">
+        <Note ID="42" FontSize="12.0" Position="392.0,808.0" Width="38.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>203</String>
             <ConnectedNoteIDs>24</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="474.402344,812.253906" Width="29.0">
+        <Note ID="43" FontSize="12.0" Position="474.0,812.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>303</String>
             <ConnectedNoteIDs>24</ConnectedNoteIDs>
         </Note>
-        <Note ID="44" FontSize="12.0" Position="552.710938,816.992188" Width="29.0">
+        <Note ID="44" FontSize="12.0" Position="553.0,817.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>204</String>
             <ConnectedNoteIDs>25</ConnectedNoteIDs>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="625.34375,814.894531" Width="29.0">
+        <Note ID="45" FontSize="12.0" Position="625.0,815.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>304</String>
             <ConnectedNoteIDs>25</ConnectedNoteIDs>
         </Note>
-        <Note ID="46" FontSize="12.0" Position="679.945312,809.125" Width="46.0">
+        <Note ID="46" FontSize="12.0" Position="680.0,809.0" Width="46.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>202-03</String>
             <ConnectedNoteIDs>26</ConnectedNoteIDs>
         </Note>
-        <Note ID="47" FontSize="12.0" Position="747.191406,796.910156" Width="46.0">
+        <Note ID="47" FontSize="12.0" Position="747.0,797.0" Width="46.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>302-03</String>
             <ConnectedNoteIDs>26</ConnectedNoteIDs>
         </Note>
-        <Note ID="48" FontSize="12.0" Position="802.246094,777.109375" Width="46.0">
+        <Note ID="48" FontSize="12.0" Position="802.0,777.0" Width="46.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>204-05</String>
             <ConnectedNoteIDs>26</ConnectedNoteIDs>
         </Note>
-        <Note ID="49" FontSize="12.0" Position="863.160156,754.972656" Width="46.0">
+        <Note ID="49" FontSize="12.0" Position="863.0,755.0" Width="46.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>304-05</String>
             <ConnectedNoteIDs>26</ConnectedNoteIDs>
         </Note>
-        <Note ID="50" FontSize="12.0" Position="823.109375,352.347656" Width="64.0">
+        <Note ID="50" FontSize="12.0" Position="823.0,352.0" Width="64.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Apartment</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="51" FontSize="12.0" Position="886.144531,363.164062" Width="61.0">
+        <Note ID="51" FontSize="12.0" Position="886.0,363.0" Width="61.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Amenities</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="52" FontSize="12.0" Position="930.8125,341.195312" Width="54.0">
+        <Note ID="52" FontSize="12.0" Position="931.0,341.0" Width="54.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Location</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="53" FontSize="12.0" Position="960.335938,315.257812" Width="54.0">
+        <Note ID="53" FontSize="12.0" Position="960.0,315.0" Width="54.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Reviews</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="54" FontSize="12.0" Position="956.625,554.027344" Width="57.0">
+        <Note ID="54" FontSize="12.0" Position="957.0,554.0" Width="57.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Know B4</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="55" FontSize="12.0" Position="1015.097656,555.234375" Width="59.0">
+        <Note ID="55" FontSize="12.0" Position="1015.0,555.0" Width="59.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>How get..</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="56" FontSize="12.0" Position="1060.210938,538.6875" Width="59.0">
+        <Note ID="56" FontSize="12.0" Position="1060.0,539.0" Width="59.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Overview</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="57" FontSize="12.0" Position="1114.371094,558.414062" Width="36.0">
+        <Note ID="57" FontSize="12.0" Position="1114.0,558.0" Width="36.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>M&amp;M</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="58" FontSize="12.0" Position="1155.496094,531.714844" Width="33.0">
+        <Note ID="58" FontSize="12.0" Position="1155.0,532.0" Width="33.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Eats</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="59" FontSize="12.0" Position="1196.339844,512.703125" Width="51.0">
+        <Note ID="59" FontSize="12.0" Position="1196.0,513.0" Width="51.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Classes</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="60" FontSize="12.0" Position="1238.292969,496.96875" Width="59.0">
+        <Note ID="60" FontSize="12.0" Position="1238.0,497.0" Width="59.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Transport</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="61" FontSize="12.0" Position="1300.394531,488.859375" Width="62.0">
+        <Note ID="61" FontSize="12.0" Position="1300.0,489.0" Width="62.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Wedding</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="62" FontSize="12.0" Position="1351.40625,478.914062" Width="30.0">
+        <Note ID="62" FontSize="12.0" Position="1351.0,479.0" Width="30.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Art</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="63" FontSize="12.0" Position="1382.816406,459.886719" Width="71.0">
+        <Note ID="63" FontSize="12.0" Position="1383.0,460.0" Width="71.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Giving back</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="64" FontSize="12.0" Position="1423.003906,441.339844" Width="46.0">
+        <Note ID="64" FontSize="12.0" Position="1423.0,441.0" Width="46.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>History</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="65" FontSize="12.0" Position="1456.703125,418.3125" Width="46.0">
+        <Note ID="65" FontSize="12.0" Position="1457.0,418.0" Width="46.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Dentist</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="66" FontSize="12.0" Position="1491.535156,394.765625" Width="37.0">
+        <Note ID="66" FontSize="12.0" Position="1492.0,395.0" Width="37.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Links</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="67" FontSize="12.0" Position="1503.617188,372.296875" Width="69.0">
+        <Note ID="67" FontSize="12.0" Position="1504.0,372.0" Width="69.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Emergency</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="68" FontSize="12.0" Position="1518.816406,343.667969" Width="59.0">
+        <Note ID="68" FontSize="12.0" Position="1519.0,344.0" Width="59.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Colombia</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="70" FontSize="12.0" Position="1548.144531,315.277344" Width="50.0">
+        <Note ID="70" FontSize="12.0" Position="1548.0,315.0" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Contact</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="71" FontSize="12.0" Position="1575.632812,284.738281" Width="41.0">
+        <Note ID="71" FontSize="12.0" Position="1576.0,285.0" Width="41.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>M &amp; B</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="72" FontSize="12.0" Position="1592.863281,251.523438" Width="25.0">
+        <Note ID="72" FontSize="12.0" Position="1593.0,252.0" Width="25.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>CB</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="73" FontSize="12.0" Position="1596.75,217.894531" Width="29.0">
+        <Note ID="73" FontSize="12.0" Position="1597.0,218.0" Width="29.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>You</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="74" FontSize="12.0" Position="1607.410156,184.195312" Width="39.0">
+        <Note ID="74" FontSize="12.0" Position="1607.0,184.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>P&amp;P</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="75" FontSize="12.0" Position="1602.125,152.234375" Width="75.0">
+        <Note ID="75" FontSize="12.0" Position="1602.0,152.0" Width="75.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Giving</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="77" FontSize="12.0" Position="1601.699219,117.023438" Width="33.0">
+        <Note ID="77" FontSize="12.0" Position="1602.0,117.0" Width="33.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
