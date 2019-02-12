@@ -1,4 +1,5 @@
-Essence PRO
+This is a new Genesis child theme called cartagena, based on Essence PRO
+
 https://my.studiopress.com/themes/essence/
 
 INSTALL
