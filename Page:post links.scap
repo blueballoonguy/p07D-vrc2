@@ -1,61 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.1" ID="17E62A6D-8A61-4B87-95E0-0A5119C2B79A">
     <Notes>
-        <Note ID="0" FontSize="12.0" Position="186.832031,405.6875" Width="115.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-            </Appearance>
-            <String>Moneda 2 bed inner</String>
-            <ConnectedNoteIDs>1, 4</ConnectedNoteIDs>
-        </Note>
-        <Note ID="1" FontSize="12.0" Position="219.28125,208.292969" Width="103.0">
+        <Note ID="1" FontSize="12.0" Position="532.535156,482.65625" Width="103.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Moneda 3 bed - 8</String>
-            <ConnectedNoteIDs>0, 2, 4-6</ConnectedNoteIDs>
-            <PointsToNoteIDs>0, 2, 4-6</PointsToNoteIDs>
+            <ConnectedNoteIDs>2, 4-6, 12</ConnectedNoteIDs>
+            <PointsToNoteIDs>0, 2, 4-6, 12</PointsToNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="73.550781,331.109375" Width="87.0">
+        <Note ID="2" FontSize="12.0" Position="249.757812,476.984375" Width="87.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Moneda studio</String>
-            <ConnectedNoteIDs>1</ConnectedNoteIDs>
+            <ConnectedNoteIDs>1, 5, 8-9, 11</ConnectedNoteIDs>
+            <PointsToNoteIDs>5, 9, 11</PointsToNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="344.113281,403.695312" Width="109.0">
+        <Note ID="4" FontSize="12.0" Position="708.199219,364.941406" Width="109.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Moneda 3 bed - 10</String>
-            <ConnectedNoteIDs>0-1, 7</ConnectedNoteIDs>
-            <PointsToNoteIDs>0-1, 7</PointsToNoteIDs>
+            <ConnectedNoteIDs>1, 5-7, 12</ConnectedNoteIDs>
+            <PointsToNoteIDs>0-1, 5-7, 12</PointsToNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="423.832031,285.492188" Width="50.0">
+        <Note ID="5" FontSize="12.0" Position="414.652344,224.601562" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Contact</String>
-            <ConnectedNoteIDs>1, 7</ConnectedNoteIDs>
+            <ConnectedNoteIDs>1-2, 4, 7-8, 12-13</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="624.0,206.0" Width="121.0">
+        <Note ID="6" FontSize="12.0" Position="692.105469,218.484375" Width="121.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Balcones apartments</String>
-            <ConnectedNoteIDs>1, 7</ConnectedNoteIDs>
+            <ConnectedNoteIDs>1, 4, 13</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="550.0,336.0" Width="85.0">
+        <Note ID="7" FontSize="12.0" Position="34.777344,386.527344" Width="85.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Moneda 1 bed</String>
-            <ConnectedNoteIDs>4-6</ConnectedNoteIDs>
-            <PointsToNoteIDs>5-6</PointsToNoteIDs>
+            <ConnectedNoteIDs>4-5, 8-9, 11</ConnectedNoteIDs>
+            <PointsToNoteIDs>5, 9, 11</PointsToNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="25.511719,99.277344" Width="118.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Moneda 2 bed - balc</String>
+            <ConnectedNoteIDs>2, 5, 7, 9, 11-13</ConnectedNoteIDs>
+            <PointsToNoteIDs>2, 5, 7, 9, 11</PointsToNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="196.992188,219.0625" Width="61.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Amenities</String>
+            <ConnectedNoteIDs>2, 7-8, 12</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="297.125,227.507812" Width="65.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Availability</String>
+            <ConnectedNoteIDs>2, 7-8, 12</ConnectedNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="313.628906,9.875" Width="123.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Moneda 2 bed - inner</String>
+            <ConnectedNoteIDs>1, 4-5, 8-9, 11, 13</ConnectedNoteIDs>
+            <PointsToNoteIDs>5, 8-9, 11</PointsToNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="573.695312,91.921875" Width="85.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Moneda 4 bed</String>
+            <ConnectedNoteIDs>5-6, 8, 12, 14</ConnectedNoteIDs>
+            <PointsToNoteIDs>5-6, 8, 12, 14</PointsToNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="706.351562,49.566406" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Moneda P&amp;P</String>
+            <ConnectedNoteIDs>13</ConnectedNoteIDs>
         </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>0-2, 4-7</AutoFit>
+    <AutoFit>1-2, 4-9, 11-14</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="E8461560-1E8E-4B84-80E9-F90C412CFFA7" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
